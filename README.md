@@ -1,6 +1,28 @@
-# 💫 About Me:
+# ✨Welcome to My GitHub! ✨
+
+Building solutions that empower and inspire! 🌟
+
 ## About Me<br><br>- 🏗️ I’m currently working on  <br>  Building a full-stack web application combining React/Next.js frontend with Django backends, and exploring IoT sensor integration for real-time updates.<br><br>- 🧑‍🤝‍🧑 I’m looking to collaborate on  <br>  Projects that contribute to impactful, real-world solutions.<br><br>- 💬 Ask me about  <br>  Frontend UI/UX design, backend development, API integrations and writing clean, maintainable code.<br><br>- ⚡ Fun fact  <br>  I love diving deep into new topics and discovering fascinating facts across a wide range of subjects.<br>
 
+## 🔥 Key Projects
+These are my key personal projects, designed to shine with functionality and style:
+
+### DukaSmart - https://duka-smart-info.vercel.app/
+Stop guessing, start selling. DukaSmart is the easiest way for small retail businesses in Africa to track stock, manage sales, and grow. Features effortless inventory with low-stock alerts, insightful sales reports, customer management (coming soon), and a fast, reliable platform.
+Next.js, Tailwind CSS
+DukaSmart
+
+
+### The Detective - https://the-detective-game-swart.vercel.app/
+A web-based multiplayer detective board game. Gather your team, pick your detective avatar, roll the dice to move across the board, and solve fun challenges like word searches, talk rounds, or DNA quizzes. Be the first to 5 points to become the Ultimate Detective!
+JavaScript, HTML, CSS
+The Detective
+
+
+### LushMuse - https://lush-muse.vercel.app/
+Glow naturally with LushMuse, a user-friendly web app inspired by Lush. It focuses on seamless user account creation and personalized experiences with a clean UI, form validation, and local storage for beauty and lifestyle engagement.
+HTML, CSS, JavaScript, React
+LushMuse
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/jennifeolisakw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jennifer-chinyere-49b474379/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Jennifer Chinyere) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paulathejennifer@gmail.com) 
@@ -15,4 +37,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Built with ✨ and 💖
