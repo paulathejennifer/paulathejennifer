@@ -8,7 +8,7 @@ I'm [Your Name], a passionate developer creating user-friendly web applications.
 ## Skills: JavaScript, Next.js, React, HTML, CSS
 Mission: Craft accessible, innovative digital experiences
 
-## 🔥 Key Projects
+## Mino Projects
 These are my key personal projects, designed to shine with functionality and style:
 
 ### DukaSmart - https://duka-smart-info.vercel.app/
