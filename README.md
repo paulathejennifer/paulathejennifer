@@ -6,7 +6,7 @@ Building solutions that empower and inspire!
 🏗️ I’m currently working on  <br>  Building a full-stack web application combining React/Next.js frontend with Django backends, and exploring IoT sensor integration for real-time updates.<br><br>- 🧑‍🤝‍🧑 I’m looking to collaborate on  <br>  Projects that contribute to impactful, real-world solutions.<br><br>- 💬 Ask me about  <br>  Frontend UI/UX design, backend development, API integrations and writing clean, maintainable code.<br><br>- ⚡ Fun fact  <br>  I love diving deep into new topics and discovering fascinating facts.<br>
 
 ## Key Projects
-These are my key personal projects, designed to shine with functionality and style:
+These are my key personal projects, designed with functionality and style:
 
 ### DukaSmart - https://duka-smart-info.vercel.app/
 Stop guessing, start selling. DukaSmart is the easiest way for small retail businesses in Africa to track stock, manage sales, and grow. Features effortless inventory with low-stock alerts, insightful sales reports, customer management (coming soon), and a fast, reliable platform.
