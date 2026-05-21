@@ -1,29 +1,73 @@
-# ✨Welcome to My GitHub! ✨
+# Hi, I'm Jennifer Chinyere 👋
 
-Building solutions that empower and inspire! 
+AI-focused Software Engineer passionate about backend systems, intelligent automation, and healthcare technology.
 
-## About Me<br>
-🏗️ I’m currently working on  <br>  Building a full-stack web application combining React/Next.js frontend with Django backends, and exploring IoT sensor integration for real-time updates.<br><br>- 🧑‍🤝‍🧑 I’m looking to collaborate on  <br>  Projects that contribute to impactful, real-world solutions.<br><br>- 💬 Ask me about  <br>  Frontend UI/UX design, backend development, API integrations and writing clean, maintainable code.<br><br>- ⚡ Fun fact  <br>  I love diving deep into new topics and discovering fascinating facts.<br>
+I build scalable full-stack applications using Python, FastAPI, React, Next.js, PostgreSQL, and AI-powered workflows.
 
-## Key Projects
-These are my key personal projects, designed with functionality and style:
+---
 
-### DukaSmart - https://duka-smart-info.vercel.app/
-Stop guessing, start selling. DukaSmart is the easiest way for small retail businesses in Africa to track stock, manage sales, and grow. Features effortless inventory with low-stock alerts, insightful sales reports, customer management (coming soon), and a fast, reliable platform.
-Next.js, Tailwind CSS
-DukaSmart
+## 🚀 About Me
 
+- 🔭 Currently building AI-powered healthcare and automation systems
+- 🌱 Learning advanced AI engineering, backend architecture, and machine learning systems
+- 💡 Interested in AI infrastructure, backend engineering, healthcare technology, and intelligent workflows
+- ⚡ Strong focus on scalable APIs, system design, and real-world problem solving
 
-### The Detective - https://the-detective-game-swart.vercel.app/
-A web-based multiplayer detective board game. Gather your team, pick your detective avatar, roll the dice to move across the board, and solve fun challenges like word searches, talk rounds, or DNA quizzes. Be the first to 5 points to become the Ultimate Detective!
-JavaScript, HTML, CSS
-The Detective
+---
 
+## 🛠️ Tech Stack
 
-### LushMuse - https://lush-muse.vercel.app/
-Glow naturally with LushMuse, a user-friendly web app inspired by Lush. It focuses on seamless user account creation and personalized experiences with a clean UI, form validation, and local storage for beauty and lifestyle engagement.
-HTML, CSS, JavaScript, React
-LushMuse
+### Languages
+Python • JavaScript • TypeScript • SQL
+
+### Frontend
+React • Next.js • Tailwind CSS • Zustand • TanStack Query
+
+### Backend
+FastAPI • PostgreSQL • SQLAlchemy • REST APIs • WebSockets
+
+### AI & Automation
+OpenAI API • Groq API • Whisper • Tesseract OCR
+
+### Tools & Infrastructure
+Docker • GitHub Actions • Git • Redis • Vercel
+
+---
+
+## 🏥 Featured Project
+
+# MediFlow — AI Healthcare Referral Management Platform
+
+AI-powered healthcare referral and patient management platform designed for intelligent clinical workflows and real-time healthcare collaboration.
+
+### Key Features
+- Multi-role healthcare dashboards
+- AI-powered referral summarization
+- OCR document extraction
+- Speech-to-text transcription
+- Real-time referral updates
+- DICOM medical imaging support
+- Secure JWT authentication system
+- RESTful API architecture
+
+### Technologies Used
+Python, FastAPI, PostgreSQL, React, Next.js, TypeScript, Docker, OpenAI API
+
+🔗 Repository: [https://github.com/paulathejennifer/mediflow]
+
+---
+
+## 📈 Currently Improving
+
+- AI engineering workflows
+- Scalable backend systems
+- Machine learning fundamentals
+- System design & architecture
+- DevOps and deployment workflows
+
+---
+
+⭐ Always building, learning, and improving.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/jennifeolisakw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jennifer-chinyere-49b474379/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Jennifer Chinyere) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paulathejennifer@gmail.com) 
